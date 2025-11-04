@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>GuessNumberGame</name>
+=======
+	<name>JavaJDBCMiniProject</name>
+>>>>>>> 36f60e4 (java jdbc project Demo)
 	<comment></comment>
 	<projects>
 	</projects>
